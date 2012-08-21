@@ -1,7 +1,7 @@
 #!/usr/bin/env perl
 
 use strict;
-use warnings
+use warnings;
 use autodie;
 
 use v5.16;
